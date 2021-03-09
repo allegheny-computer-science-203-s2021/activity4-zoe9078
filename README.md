@@ -2,6 +2,8 @@
 
 ## DUE: by Thursday, March 11
 
+[![Actions Status](../../workflows/build/badge.svg)](../../actions)
+
 ## Introduction
 
 Designed for use with [GitHub Classroom](https://classroom.github.com/) and
