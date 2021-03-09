@@ -1,8 +1,6 @@
 # cs203s2021-activity4
 
-## DUE: by Thursday, March 11 
-
-https://github.com/<zoe9078>/<activity4-zoe9078>/actions/workflows/<README.md>/badge.svg
+## DUE: by Thursday, March 11
 
 ## Introduction
 
