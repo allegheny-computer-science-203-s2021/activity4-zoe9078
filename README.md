@@ -2,6 +2,8 @@
 
 ## DUE: by Thursday, March 11 
 
+https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg
+
 ## Introduction
 
 Designed for use with [GitHub Classroom](https://classroom.github.com/) and
